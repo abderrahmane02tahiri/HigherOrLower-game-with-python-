@@ -5,12 +5,7 @@ data = [
         'description': 'Social media platform',
         'country': 'United States'
     },
-    {
-        'name': 'Cristiano Ronaldo',
-        'follower_count': 215,
-        'description': 'Footballer',
-        'country': 'Portugal'
-    },
+
     {
         'name': 'Ariana Grande',
         'follower_count': 183,
@@ -805,22 +800,10 @@ data = [
         'country': 'India'
     },
     {
-        'name': 'Cristiano Ronaldo',
-        'follower_count': 400,
-        'description': 'Footballer',
-        'country': 'Portugal'
-    },
-    {
         'name': 'Selena Gomez',
         'follower_count': 280,
         'description': 'Singer and Actress',
         'country': 'United States'
-    },
-    {
-        'name': 'Lionel Messi',
-        'follower_count': 281,
-        'description': 'Footballer',
-        'country': 'Argentina'
     },
     {
         'name': 'Katy Perry',
