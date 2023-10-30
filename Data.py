@@ -367,12 +367,6 @@ data = [
         'country': 'Barbados'
     },
     {
-        'name': 'Lionel Messi',
-        'follower_count': 283,
-        'description': 'Footballer',
-        'country': 'Argentina'
-    },
-    {
         'name': 'Taylor Swift',
         'follower_count': 147,
         'description': 'Singer-songwriter',
